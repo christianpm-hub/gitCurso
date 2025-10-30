@@ -2,6 +2,7 @@ Algoritmo minicalculadora
   Definir num_a, num_b, num_res como Real
   Definir opcion como Entero
   
+  Escribir "Bienvenido a la Calculadora"
   Escribir "Introducir numero a"
   leer num_a
   Escribir "Introducir numero b"
